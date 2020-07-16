@@ -1,2 +1,2 @@
 Sie können hier der Datensatz herunterladen.
-https://www.kaggle.com/imadmoussa/traffic-signs
+https://bitbucket.org/jadslim/german-traffic-signs/src/master/
