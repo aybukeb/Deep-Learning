@@ -1,6 +1,5 @@
-Sie können hier der Datensatz herunterladen. Klicken Sie "View rar" (train.p - test.p - valid.p)
+Datensatz können über diesen Link errreichbar. Wenn Sie den Code testen möchten, müssen Sie den Datensatz nicht herunterladen. Wir werden den Datensatz von diesem Link abrufen.
 https://bitbucket.org/jadslim/german-traffic-signs/src/master
 
 
-Sie können hier die "signnames.csv" Datei herunterladen. Klicken Sie "download" Button.
-https://www.kaggle.com/imadmoussa/traffic-signs?select=signnames.csv
+
